@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "MRatings",
+    "slug": "MRatings",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon 1.png",
+    "splash": {
+      "image": "./assets/splashsc.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#141A29"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon 1.png"
+      },
+      "package": "com.samuelvls.MRatings"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
